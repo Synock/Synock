@@ -1,5 +1,5 @@
 - Hi, I’m @Synock
-- I’m interested in procedurale generation, image and texture processing, foliage and tree creation
+- I’m interested in procedural generation, image and texture processing, foliage and tree creation
 - I’m currently tinkering with UE5
 
 <!---
